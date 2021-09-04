@@ -1,0 +1,48 @@
+<style>
+ 	body{
+ 		margin: 0;
+ 	}
+ 	.box1{
+    background-color: #dddcea;
+    width: 1200px;
+    text-align: center;
+    margin-left: auto;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding: 50px;
+ 	}
+ 	.box2{
+ 		width: 1200px;
+   		margin: auto;
+    	background: antiquewhite;
+    	padding: 80px 50px;
+    	margin-bottom: 50px;
+ 	}
+	h1{
+		color: white;
+    	font-size: 60px;
+    	margin: 0;
+		background-color: gray;
+		color: white;
+		font-size: 30px;
+		margin: 0;
+	}
+	p{
+		font-size: 25px;
+    	color: darkblue;
+	}
+	.black{
+    color: black;
+	}
+	.blue{
+    color: #f18c7b;
+	}
+	.orange{
+    color: orange;
+	}
+
+  </style>
